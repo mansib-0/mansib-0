@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**mansib-0/mansib-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Mansib Dewan 👋
 
-Here are some ideas to get you started:
+### Senior AI Engineer — RAG Systems & LLM Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build production-grade AI systems that transform how businesses operate.
+
+---
+
+🔍 **Specializations:**
+- 🧠 RAG Systems & Document Intelligence
+- 🤖 AI Agents & Agentic Workflows  
+- ⚡ LLM Integration (GPT-4, Claude, Gemini)
+- 🚀 Production ML Deployment
+
+🛠️ **Tech Stack:**
+Python | LangChain | LlamaIndex | OpenAI | Claude | Gemini Pinecone | Weaviate | ChromaDB | FastAPI | Docker | AWS/GCP
+
+
+📫 **Work with me:** mnickimau@gmail.com  
+🌐 **Portfolio:** https://startling-blancmange-9dc0f0.netlify.app
