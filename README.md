@@ -3,7 +3,7 @@
 
 ### Senior AI Engineer — RAG Systems & LLM Integration
 
-I build production-grade AI systems that transform how businesses operate.
+IN SHA ALLAH , I build production-grade AI systems that transform how businesses operate.
 
 ---
 
