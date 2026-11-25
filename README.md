@@ -1,7 +1,7 @@
 
 # Hey, I'm Mansib Dewan 👋
 
-### Senior AI Engineer — RAG Systems & LLM Integration
+### AI Engineer — RAG Systems & LLM Integration
 
 IN SHA ALLAH , I build production-grade AI systems that transform how businesses operate.
 
